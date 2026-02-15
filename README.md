@@ -1,9 +1,7 @@
-# Elshishiny Multi-Section Template
-
-![Project Screenshot](images/i/landing-image.png)
+#Multi-Section Template
 
 ## Live Demo
-🌐 [View Live](https://abdelfatahh1.github.io/Dashboard/)
+🌐 [View Live](https://abdelfatahh1.github.io/multi-section-website/)
 
 ---
 
